@@ -1,0 +1,32 @@
+.nav-container {
+  display: flex;
+}
+
+#fineshit {
+  height: 3rem;
+  width: auto;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 40px;
+  margin-left: auto;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  margin-top: 10rem;
+  margin-bottom: auto;
+}
